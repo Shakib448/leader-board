@@ -54,4 +54,31 @@ nav.navbar.navbar-expand-lg.navbar-light {
 .top-blog-image{
     width: 200px;
 }
+
 /* Top player and blog end  */
+
+/* Latest course start  */
+
+section#latest{
+    padding: 2% 17%;
+    bottom: 1px solid gray;
+}
+
+.latest-header{
+    margin-bottom: 50px;
+}
+
+.card.card-shadow {
+    box-shadow: 10px 10px 20px gray;
+    border-radius: 25px;
+    border: none;
+    padding: 5%;
+}
+
+.img-thumbnail{
+    border: none;
+}
+
+
+
+/* Latest course end  */
