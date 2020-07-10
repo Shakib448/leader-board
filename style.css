@@ -1,6 +1,7 @@
 body{
     margin: 0;
     padding: 0;
+    background-color: #F3F1FF;
 }
 
 /* Header start  */
@@ -27,3 +28,24 @@ nav.navbar.navbar-expand-lg.navbar-light {
 }
 
 /* Header End  */
+
+/* Top player start  */
+
+#top-player{
+    padding: 2% 17%;
+    bottom: 1px solid gray;
+}
+
+.top-player{
+    padding: 2%;
+}
+
+.top-player h3{
+    color: #562EFF;
+}
+
+
+.top-player-image{
+    width: 100px;
+}
+/* Top player end  */
