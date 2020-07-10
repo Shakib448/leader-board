@@ -22,4 +22,8 @@ body{
     font-weight: bold;
 }
 
+nav.navbar.navbar-expand-lg.navbar-light {
+    padding: 5px 100px;
+}
+
 /* Header End  */
