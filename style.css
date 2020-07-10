@@ -2,6 +2,7 @@ body{
     margin: 0;
     padding: 0;
     background-color: #F3F1FF;
+    overflow-x: hidden;
 }
 
 /* Header start  */
@@ -33,7 +34,6 @@ nav.navbar.navbar-expand-lg.navbar-light {
 
 #top-player{
     padding: 2% 17%;
-    bottom: 1px solid gray;
 }
 
 .top-player{
@@ -61,7 +61,6 @@ nav.navbar.navbar-expand-lg.navbar-light {
 
 section#latest{
     padding: 2% 17%;
-    bottom: 1px solid gray;
 }
 
 .latest-header{
@@ -79,6 +78,9 @@ section#latest{
     border: none;
 }
 
-
+.hr-body {
+    background-color: #FFE4E8;
+    border-radius: 10px;
+}
 
 /* Latest course end  */
