@@ -29,7 +29,7 @@ nav.navbar.navbar-expand-lg.navbar-light {
 
 /* Header End  */
 
-/* Top player start  */
+/* Top player and blog start  */
 
 #top-player{
     padding: 2% 17%;
@@ -48,4 +48,10 @@ nav.navbar.navbar-expand-lg.navbar-light {
 .top-player-image{
     width: 100px;
 }
-/* Top player end  */
+
+/* Blog start  */
+
+.top-blog-image{
+    width: 200px;
+}
+/* Top player and blog end  */
