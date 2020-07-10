@@ -1,0 +1,25 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+/* Header start  */
+
+.group-img{
+    width: 40px;
+}
+
+.idea{
+    color: #fff;
+}
+
+.ellipse{
+    width: 50px;
+}
+
+.navbar-light .navbar-nav .active>.nav-link{
+    color: white;
+    font-weight: bold;
+}
+
+/* Header End  */
