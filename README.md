@@ -1,1 +1,1 @@
-"# leader-board" 
+<img src="image/leader-board.png">
