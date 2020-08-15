@@ -1,1 +1,1 @@
-<img src="image/leader-board.png">
+<img src="Image/leader-board.png">
